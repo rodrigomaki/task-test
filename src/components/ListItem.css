@@ -1,0 +1,6 @@
+.list-item a {
+  text-decoration: underline;
+  margin-left: 5px;
+  cursor: pointer;
+  color: blue;
+}

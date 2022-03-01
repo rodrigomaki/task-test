@@ -1,0 +1,7 @@
+.task-list {
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid tomato;
+  border-radius: 10px;
+  padding: 10px;
+}
