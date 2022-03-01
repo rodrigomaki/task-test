@@ -5,8 +5,8 @@ import TaskListContainer from './components/TaskListContainer';
 
 /**
  * - nomenclatura das funções
- * - reutilização dos componentes (Container, Form, etc)
- * - subir o estado da aplicação (source of truth)
+ * - reutilização dos componentes (Container, Form, etc) - https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
+ * - subir o estado da aplicação (source of truth) - https://pt-br.reactjs.org/docs/lifting-state-up.html
  * - HOC's
  * - menos é mais
  * - clean code
